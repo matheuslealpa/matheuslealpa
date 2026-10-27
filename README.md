@@ -48,6 +48,7 @@
 
 **Tools & Practices**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logo=diagramsdotnet&logoColor=black)
 ![REST](https://img.shields.io/badge/REST-005571?style=flat-square)
